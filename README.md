@@ -109,9 +109,23 @@ Android Development • Networking • Security • AI Integration
 
 ![WhatsApp Image 2026-01-14 at 20 58 50](https://github.com/user-attachments/assets/e758741f-6603-4d12-accd-047d0a68250c)  ![WhatsApp Image 2026-01-14 at 20 58 49](https://github.com/user-attachments/assets/5aa72359-d341-48f1-b265-046d712fd573)
 
+📸 App Preview
+🔹 Main Screens
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e758741f-6603-4d12-accd-047d0a68250c" width="30%" />
+  <img src="https://github.com/user-attachments/assets/5aa72359-d341-48f1-b265-046d712fd573" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1273f151-1b30-4c32-ba5a-56121469fd3c" width="30%" />
+</p>
 
-![WhatsApp Image 2026-01-14 at 20 58 49 (1)](https://github.com/user-attachments/assets/1273f151-1b30-4c32-ba5a-56121469fd3c)
-![WhatsApp Image 2026-01-14 at 20 58 52](https://github.com/user-attachments/assets/c01b3888-35a7-4884-87c8-3f544656b6b5)
-![WhatsApp Image 2026-01-14 at 20 58 52 (1)](https://github.com/user-attachments/assets/9ac1a581-b0e8-422d-898a-a3710ecaf50a)
-![WhatsApp Image 2026-01-14 at 20 58 51](https://github.com/user-attachments/assets/ca4b4966-8ce0-4bb9-ae49-facf6a282676)
-![WhatsApp Image 2026-01-14 at 20 58 51 (1)](https://github.com/user-attachments/assets/fcf49d21-d2a1-4050-9ef0-588602851a5a)
+🔹 AI Interaction & Results
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c01b3888-35a7-4884-87c8-3f544656b6b5" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9ac1a581-b0e8-422d-898a-a3710ecaf50a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ca4b4966-8ce0-4bb9-ae49-facf6a282676" width="30%" />
+</p>
+
+🔹 Additional UI Screens
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcf49d21-d2a1-4050-9ef0-588602851a5a" width="40%" />
+</p>
+
